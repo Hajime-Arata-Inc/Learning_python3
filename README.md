@@ -1,4 +1,4 @@
-# Lerning_python3
+# Learning_python3
 
 # Python 基礎 1-1 文法
 
